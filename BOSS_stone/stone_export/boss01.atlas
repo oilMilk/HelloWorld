@@ -1,0 +1,34 @@
+
+boss01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 529, 263
+  size: 211, 148
+  orig: 211, 148
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 210, 85
+  size: 181, 326
+  orig: 181, 326
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 2, 2
+  size: 206, 409
+  orig: 206, 409
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 393, 148
+  size: 134, 263
+  orig: 134, 263
+  offset: 0, 0
+  index: -1
